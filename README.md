@@ -11,6 +11,7 @@ strategy firm located in Aptos, CA and Washington, D.C.
 License: MIT
 ------------
 Copyright (C) 2012 Carlos Rodriguez
+
 Copyright (C) 2012 Terra Eclipse, Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
