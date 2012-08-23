@@ -1,5 +1,3 @@
-`... project README above this point ...`
-
 Developed by [Terra Eclipse](http://www.terraeclipse.com)
 --------------------------------------------------------
 Terra Eclipse, Inc. is a nationally recognized political technology and
