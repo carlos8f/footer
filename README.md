@@ -2,14 +2,12 @@
 
 - - -
 
-Developed by [Terra Eclipse](http://www.terraeclipse.com)
---------------------------------------------------------
+### Developed by [Terra Eclipse](http://www.terraeclipse.com)
 Terra Eclipse, Inc. is a nationally recognized political technology and
 strategy firm located in Aptos, CA and Washington, D.C.
 
 
-License: MIT
-------------
+### License: MIT
 Copyright (C) 2012 Terra Eclipse, Inc. ([http://www.terraeclipse.com](http://www.terraeclipse.com))
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
